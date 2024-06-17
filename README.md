@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=draphy&label=Profile%20views&color=0e75b6&style=flat" alt="draphy" /> </p>
 
-- 🌱 I’m currently learning **Microservices**
-
 - 👨‍💻 Personal Website [https://davidraphi.ml/](https://davidraphi.ml/)
 
 - 📫 How to reach me **davidraphiofficial@gmail.com**
